@@ -18,10 +18,10 @@ I enjoy building practical projects that combine problem-solving with technology
 
 #### Featured Projects
 
-** NHS Trust Database**
+**NHS Trust Database**
 A normalised MySQL database designed for a simulated NHS digital transformation initiative, featuring relational database design, SQL reporting, stored procedures, triggers, role-based access control, password hashing and data encryption.
 
-** Beauty E-Commerce Website**
+**Beauty E-Commerce Website**
 A responsive e-commerce website developed with HTML, CSS and JavaScript, featuring product filtering, product modals, shopping-cart functionality, local storage, form validation and accessibility-focused design.
 
 #### Currently
