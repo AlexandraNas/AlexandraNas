@@ -31,7 +31,7 @@ I'm continuing to develop my software engineering and database skills through un
 #### Connect With Me
 
 - LinkedIn: www.linkedin.com/in/alexandra-nastase-99235622a
-- Portfolio:
+- Portfolio:https://alexandranas.github.io/personal-portfolio-website/
 - GitHub: https://github.com/AlexandraNas
 
 Thanks for visiting my profile!
